@@ -47,6 +47,8 @@ The lack of country-specific data makes it difficult to test correlations with f
 
 ## Findings
 
+An overview with all our findings and data visualisations can be found in a [Tableau slide presentation](https://public.tableau.com/app/profile/simone.fischer/viz/MidProjectPlasticWaste_17030854304850/Presentation).
+
 Initial analysis and exploration have revealed several noteworthy aspects:
 
 1. Plastic and Recycling Waste Trends:
