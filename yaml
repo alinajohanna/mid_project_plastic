@@ -1,0 +1,11 @@
+# Project Configuration
+
+# data
+  raw_data: ../data/raw_data
+  cleaned_data: ../data/cleaned_data
+
+# transformers
+  ./transformers
+
+# models  
+  ./models
